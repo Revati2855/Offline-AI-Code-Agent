@@ -1,0 +1,8 @@
+code_agent_env/
+venv/
+local_models/
+__pycache__/
+*.py[cod]
+.env
+.pytest_cache/
+.ruff_cache/
